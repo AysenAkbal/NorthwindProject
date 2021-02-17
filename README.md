@@ -1,5 +1,5 @@
 # NorthwindProject
-Spring Boot 
+Spring Boot E-Trade Project
 
 Product ve Category tablolari icin getById, add, delete ve update operasyonlari yazildi.
 Urun ekleme kurallari :
